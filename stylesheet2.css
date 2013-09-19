@@ -96,7 +96,7 @@ h1 {
     float: right;
     margin: 40px 105px 0px 5px;
     }
-#menu div {
+#header #menu div {
     display: inline-block;
     color: #2F3440;
     height: 35px;
