@@ -92,7 +92,7 @@ h1 {
     position: relative;
     float: left;
 }
-#menu {
+#header #menu {
     float: right;
     margin: 40px 105px 0px 5px;
     }
