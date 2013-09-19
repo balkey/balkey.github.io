@@ -93,8 +93,7 @@ h1 {
 }
 #menu {
     float: right;
-    padding: 40px 105px 0px 5px;
-    position: relative;
+    margin: 40px 105px 0px 5px;
     }
 #menu div {
     display: inline-block;
