@@ -95,7 +95,6 @@ h1 {
 #header #menu {
     float: right;
     margin: 40px 105px 0px 5px;
-    display: inline-block;
     }
 #header #menu div {
     display: inline-block;
